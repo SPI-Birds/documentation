@@ -20,7 +20,7 @@
 
 # Introduction
 
-The SPI-Birds Network and Database aims to create a global network of Studies on Populations of Individual birds (SPI-Birds), improving data accessibility and transparency, and facilitating collaboration and data reuse. As part of this project we build robust [data pipelines](https://github.com/SPI-Birds/pipelines) for different researchers and research groups that return their primary data in a standard format. We envision that this standard format will facilitate greater collaboration by allowing data from multiple populations to be easilty collated and compared.
+The SPI-Birds Network and Database aims to create a global network of studies on populations of individually-marked birds, improving data accessibility and transparency, and facilitating collaboration and data reuse. As part of this project we build robust [data pipelines](https://github.com/SPI-Birds/pipelines) for different researchers and research groups that return their primary data in a standard format. We envision that this standard format will facilitate greater collaboration by allowing data from multiple populations to be easilty collated and compared.
 
 The documents created as part of the SPI-Birds Network and Database are structured in folders. Below you will find an overview of the documents that can be found in each of the folders.
 
